@@ -15,11 +15,8 @@ The UX and UI design was created by <a href="https://dotcreative.hu" target="_bl
 <br>
 
 ---
-<br>
 
 ## Design
-
-<br>
 
 ### Desktop
 
@@ -30,8 +27,8 @@ The links below will take you to the design for the desktop view, which will hel
 <figcaption><i>SWAN consent management first step screenshot - Desktop view</i></figcaption>
 </figure>
 
-- <a href="https://www.figma.com/file/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?node-id=632%3A530" target="_blank">Desktop Design</a> :link:
-- <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=632%3A530&node-id=632%3A550&viewport=245%2C48%2C0.65&scaling=scale-down&starting-point-node-id=632%3A550&hide-ui=1" target="_blank">Desktop Prototype</a> :link:
+- <a href="https://www.figma.com/file/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?node-id=632%3A530" target="_blank">Design</a> :link:
+- <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=632%3A530&node-id=632%3A550&viewport=245%2C48%2C0.65&scaling=scale-down&starting-point-node-id=632%3A550&hide-ui=1" target="_blank">Prototype</a> :link:
 <br><br>
 
 ### Mobile
@@ -42,20 +39,20 @@ The links below will take you to the design for the mobile view, which will help
 <img src="images/mobile-step-1.png" width="240" alt="SWAN Mobile Design">
 <figcaption><i>SWAN consent management first step screenshot - Mobile view</i></figcaption>
 </figure>
+<br>
 
 - <a href="https://www.figma.com/file/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?node-id=727%3A3701" target="_blank">Design</a> :link:
 - <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=727%3A3701&node-id=727%3A3702&viewport=245%2C48%2C0.05&scaling=scale-down&starting-point-node-id=727%3A3702&hide-ui=1" target="_blank">Prototype</a> :link:
-<br><br>
+
+<br>
 
 ---
-<br>
 
 ## Design Guide
 
 In future developments, the Design Guide will help to maintain a consistent and stable look for SWAN.
 
 The full Design Guide is available at this link as a Figma prototype: 
-
 <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=1013%3A8976&node-id=1153%3A9876&viewport=245%2C48%2C0.34&scaling=scale-down-width&starting-point-node-id=1153%3A9876&hide-ui=1" target="_blank">Design Guide</a>
 
 <br>
@@ -78,3 +75,12 @@ The guides for each element are linked below.
 - <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=1013%3A8976&node-id=1146%3A10219&viewport=245%2C48%2C0.34&scaling=scale-down-width&starting-point-node-id=1153%3A9876&hide-ui=1" target="_blank">Animations</a> :link:
 - <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=1013%3A8976&node-id=1149%3A9819&viewport=245%2C48%2C0.34&scaling=scale-down-width&starting-point-node-id=1153%3A9876&hide-ui=1" target="_blank">Accessibility</a> :link:
 - <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=1013%3A8976&node-id=1149%3A9949&viewport=245%2C48%2C0.34&scaling=scale-down-width&starting-point-node-id=1153%3A9876&hide-ui=1" target="_blank">Tone of voice</a> :link:
+
+<br>
+
+## About the creators
+
+Dot Creative is a Digital Agency. Our main profile is UI and UX design, we also design and implement social and media campaigns.
+
+<a href="https://dotcreative.hu" target="_blank">Website</a> | 
+<a href="https://dotcreative.hu" target="_blank">LinkedIn</a> | <a href="https://dotcreative.hu" target="_blank">Instagram</a> | <a href="https://dotcreative.hu" target="_blank">Facebook</a>
