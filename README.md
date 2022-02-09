@@ -20,30 +20,26 @@ The UX and UI design was created by <a href="https://dotcreative.hu" target="_bl
 
 The links below will take you to the design for the desktop view, which will help you with the development, and the prototype, which will guide you through the process.
 
+- <a href="https://www.figma.com/file/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?node-id=632%3A530" target="_blank">Design</a> :link:
+- <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=632%3A530&node-id=632%3A550&viewport=245%2C48%2C0.65&scaling=scale-down&starting-point-node-id=632%3A550&hide-ui=1" target="_blank">Prototype</a> :link:
+
 <figure>
 <img src="images/desktop-step-1.png" width="100%" alt="SWAN Desktop Design">
 <figcaption><i>SWAN consent management first step screenshot - Desktop view</i></figcaption>
 </figure>
 
-<br><br>
-
-- <a href="https://www.figma.com/file/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?node-id=632%3A530" target="_blank">Design</a> :link:
-- <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=632%3A530&node-id=632%3A550&viewport=245%2C48%2C0.65&scaling=scale-down&starting-point-node-id=632%3A550&hide-ui=1" target="_blank">Prototype</a> :link:
-<br><br>
 
 ### Mobile
 
 The links below will take you to the design for the mobile view, which will help you with the development, and the prototype, which will guide you through the process.
 
+- <a href="https://www.figma.com/file/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?node-id=727%3A3701" target="_blank">Design</a> :link:
+- <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=727%3A3701&node-id=727%3A3702&viewport=245%2C48%2C0.05&scaling=scale-down&starting-point-node-id=727%3A3702&hide-ui=1" target="_blank">Prototype</a> :link:
+
 <figure>
 <img src="images/mobile-step-1.png" width="240" alt="SWAN Mobile Design">
 <figcaption><i>SWAN consent management first step screenshot - Mobile view</i></figcaption>
 </figure>
-
-<br><br>
-
-- <a href="https://www.figma.com/file/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?node-id=727%3A3701" target="_blank">Design</a> :link:
-- <a href="https://www.figma.com/proto/ZYRwW8OWycoVqV45yH8Lt0/SWAN-UI-design?page-id=727%3A3701&node-id=727%3A3702&viewport=245%2C48%2C0.05&scaling=scale-down&starting-point-node-id=727%3A3702&hide-ui=1" target="_blank">Prototype</a> :link:
 
 ---
 
